@@ -8,7 +8,7 @@ Skills: <img src="https://github.com/devicons/devicon/blob/master/icons/java/jav
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;HTML+CSS / Docker
 
 - 🌱 I’m currently learning Spring Boot, Kafka, Microservices 
-- 💬 Ask me about About anything you want 
+- 💬 Ask me about anything you want 
 - 📫 How to reach me: Mail: ramanpan123@gmail.com 
 - ⚡ Fun fact: I have a twin brother) 
 
