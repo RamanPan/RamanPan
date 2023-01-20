@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Roman Panaiot
+### Hi there 👋, My name is Roman Panaiot
 #### Backend Java-Developer
 I am 20 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://en.itmo.ru/)   with a degree in "Software Engineer"
 Now I am studying at [LETI University](https://etu.ru/en/university/) (I'm getting a bachelor's degree)
 
-Skills: Java / PostgreSQL / Hibernate / SpringBoot / HTML+CSS / Docker / 
+Skills: Java / JavaScript/ React/ PostgreSQL / Hibernate / SpringBoot / HTML+CSS / Docker
 
 - 🌱 I’m currently learning Spring Boot, Kafka, Microservices 
 - 💬 Ask me about About anything you want 
@@ -20,8 +20,6 @@ Skills: Java / PostgreSQL / Hibernate / SpringBoot / HTML+CSS / Docker /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanPan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamanPan&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RamanPan)  
 
 ![GitHub metrics](https://metrics.lecoq.io/RamanPan)  
 
