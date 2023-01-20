@@ -5,7 +5,7 @@ I am 20 years old, live in Russia, Saint-Petersburg. I love everything related t
 Now I am studying at [LETI University](https://etu.ru/en/university/) (I'm getting a bachelor's degree)
 - 🌱 I’m currently learning Spring Boot, Kafka, Microservices 
 - 💬 Ask me about anything you want 
-- 📫 How to reach me: Mail: ramanpan123@gmail.com 
+- 📫 How to reach me: Mail: ramanpan123@gmail.com or Telegram: @RamanPan
 - ⚡ Fun fact: I have a twin brother) 
 
 ## ⚒️:Skills 
