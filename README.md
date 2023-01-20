@@ -1,9 +1,10 @@
-### Hi there 👋, My name is Roman Panaiot
+### Hello everyone 👋! My name is Roman Panaiot
 #### Backend Java-Developer
 I am 20 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://en.itmo.ru/)   with a degree in "Software Engineer"
 Now I am studying at [LETI University](https://etu.ru/en/university/) (I'm getting a bachelor's degree)
 
-Skills: Java / JavaScript/ React/ PostgreSQL / Hibernate / SpringBoot / HTML+CSS / Docker
+Skills: <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;Java / JavaScript/ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;React/ PostgreSQL / Hibernate / <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;SpringBoot / <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;HTML+CSS / Docker
 
 - 🌱 I’m currently learning Spring Boot, Kafka, Microservices 
 - 💬 Ask me about About anything you want 
