@@ -18,13 +18,13 @@ Now I am studying at [LETI University](https://etu.ru/en/university/) (I'm getti
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 
 ## 🥇:𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamanPan&show_icons=true&count_private=true)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamanPan&show_icons=true&count_private=true&theme=dracula)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanPan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanPan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RamanPan)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RamanPan&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RamanPan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RamanPan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/RamanPan)  
  
