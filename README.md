@@ -1,5 +1,5 @@
-# Hello everyone 👋! 
-## :man_technologist: My name is Roman Panaiot and I am Backend Java-Developer
+# 𝙷𝚎𝚕𝚕𝚘 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎👋! 
+## :man_technologist: 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚁𝚘𝚖𝚊𝚗 𝙿𝚊𝚗𝚊𝚒𝚘𝚝 𝚊𝚗𝚍 𝙸 𝚊𝚖 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙹𝚊𝚟𝚊-𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 ## 📝About me
 I am 20 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://en.itmo.ru/)   with a degree in "Software Engineer"
 Now I am studying at [LETI University](https://etu.ru/en/university/) (I'm getting a bachelor's degree)
