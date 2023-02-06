@@ -23,9 +23,7 @@ Now I am studying at [LETI University](https://etu.ru/en/university/) (I'm getti
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanPan&theme=dracula&layout=compact&hide=C)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RamanPan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-   
-![GitHub metrics](https://metrics.lecoq.io/RamanPan)  
-
+     
 [![codewars](https://www.codewars.com/users/RamanPan/badges/small)](https://www.codewars.com/users/RamanPan) ![Profile views](https://gpvc.arturio.dev/RamanPan)
 
 
