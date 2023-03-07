@@ -3,7 +3,7 @@
 ## 📝𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 I am 20 years old, live in Russia, Saint-Petersburg. I love everything related to programming. Graduated college with honors from [ITMO University](https://en.itmo.ru/)   with a degree in "Software Engineer"
 Now I am studying at [LETI University](https://etu.ru/en/university/) (I'm getting a bachelor's degree)
-- 🌱 I’m currently learning Spring Boot, Kafka, Microservices 
+- 🌱 I’m currently learning Spring Boot, Kafka, Microservices.
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: Mail: ramanpan123@gmail.com or Telegram: @RamanPan
 - ⚡ Fun fact: I have a twin brother) 
